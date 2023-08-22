@@ -1,0 +1,123 @@
+{
+  "productTypes" : [
+    {
+        "id" : "crops",
+        "name" : "Crops",
+        "categories" : [
+            {
+                "id" : "cereals",
+                "name" : "Cereals"
+            },
+            {
+                "id" : "winter-rape",
+                "name" : "Winter rape"
+            },
+            {
+                "id" : "corn",
+                "name" : "Corn"
+            },
+            {
+                "id" : "orchards-and-blueberries",
+                "name" : "Orchards and blueberries"
+            },
+            {
+                "id" : "vegetables",
+                "name" : "Vegetables"
+            },
+            {
+                "id" : "potato",
+                "name" : "Potato"
+            },
+            {
+                "id" : "white-beet",
+                "name" : "White beet"
+            },
+            {
+                "id" : "sunflower",
+                "name" : "Sunflower"
+            }
+        ]
+    },
+    {
+        "id" : "plant-protection-products",
+        "name" : "Plant Protection Products",
+        "categories" : [
+            {
+                "id": "fungicides",
+                "name" : "Fungicides"
+            },
+            {
+                "id": "herbicides",
+                "name" : "Herbicides"
+            },
+            {
+                "id": "insecticides",
+                "name" : "Insecticides"
+            },
+            {
+                "id": "growth-regulator",
+                "name" : "Growth regulator"
+            },
+            {
+                "id": "seed-dressings",
+                "name" : "Seed Dressings"
+            },
+            {
+                "id": "biostimulants",
+                "name" : "Biostimulants"
+            }
+        ]
+    },
+    {
+        "id" : "seeds",
+        "name" : "Seeds",
+        "categories" : [
+            {
+                "id": "winter-rape",
+                "name" : "Winter Rape"
+            }
+        ]
+    },
+    {
+        "id" : "bio-syngenta",
+        "name" : "BIO Syngenta"
+    }
+  ],
+  "products" : [
+    {
+      "id": 1,
+      "title" : "Test title",
+      "desc" : "Test description goes here...",
+      "type" : "seeds",
+      "category" : "cereal"
+    },
+    {
+      "id": 2,
+      "title" : "Test title 2",
+      "desc" : "Test2 description goes here...",
+      "type" : "seeds",
+      "category" : "cereal"
+    },
+    {
+      "id": 3,
+      "title" : "Test title 3",
+      "desc" : "Test3 description goes here...",
+      "type" : "seeds",
+      "category" : "cereal"
+    },
+    {
+      "id": 4,
+      "title" : "Test title 4",
+      "desc" : "Test4 description goes here...",
+      "type" : "seeds",
+      "category" : "cereal"
+    },
+    {
+      "id": 5,
+      "title" : "Test title 5",
+      "desc" : "Test5 description goes here...",
+      "type" : "seeds",
+      "category" : "cereal"
+    }
+  ]
+}
